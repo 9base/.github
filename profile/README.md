@@ -8,6 +8,10 @@ The collection is organized by both technical area and maintenance status, so vi
 
 Not every repository under 9base was authored by 9base. Some are upstream projects, dependencies, working forks or historical snapshots. Each repository documents its provenance, verified local changes and maintenance status; upstream authors retain credit for their work.
 
+## Audited public index
+
+The [repository index](https://github.com/9base/.github/blob/main/PUBLIC_REPOSITORY_INDEX.md) records all **54 public repositories** at the 9 October 2026 snapshot: 50 archived, four open. It preserves the classifications below and links the observed commits. Follow the [Public Portfolio Quality backlog](https://github.com/users/Zaryob/projects/9) for current verification work; open state is not a maintenance guarantee.
+
 ## Maintained downstream and working copies
 
 | Repository | Status | Scope |
@@ -62,4 +66,4 @@ Historical, Historical Downstream, Preserved and Educational repositories are ar
 
 ---
 
-**Profile repository status: Maintained organization documentation.** Updated 8 October 2026 after repository-level curation.
+**Profile repository status: Maintained organization documentation.** Repository-level curation: 8 October 2026. Public index snapshot: 9 October 2026.
