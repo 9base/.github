@@ -4,7 +4,7 @@ Snapshot: **9 October 2026 (Europe/Istanbul)**; 54 public repositories, 50 archi
 
 The GitHub fork flag is separate from authorship. Non-fork repositories can still preserve upstream snapshots. The classifications below are the existing repository topics; refer to each README for its provenance, local deltas and retrospective limitations. All archived flags remain unchanged.
 
-[Portfolio audit and method](https://github.com/Zaryob/zaryob/blob/portfolio/quality-2026-10-09/PUBLIC_REPOSITORY_AUDIT.md) | [Quality backlog](https://github.com/users/Zaryob/projects/9)
+[Portfolio audit and method](https://github.com/Zaryob/zaryob/blob/9d34b4f7064665d65e7a365bd9db270b2bbda43f/PUBLIC_REPOSITORY_AUDIT.md) | [Quality backlog](https://github.com/users/Zaryob/projects/9)
 
 | Repository | Existing status | Administrative state | GitHub fork parent | Default branch commit |
 | --- | --- | --- | --- | --- |

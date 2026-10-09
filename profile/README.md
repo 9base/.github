@@ -10,7 +10,7 @@ Not every repository under 9base was authored by 9base. Some are upstream projec
 
 ## Audited public index
 
-The [repository index](https://github.com/9base/.github/blob/portfolio/quality-2026-10-09/PUBLIC_REPOSITORY_INDEX.md) records all **54 public repositories** at the 9 October 2026 snapshot: 50 archived, four open. It preserves the classifications below and links the observed commits. Follow the [Public Portfolio Quality backlog](https://github.com/users/Zaryob/projects/9) for current verification work; open state is not a maintenance guarantee.
+The [repository index](https://github.com/9base/.github/blob/main/PUBLIC_REPOSITORY_INDEX.md) records all **54 public repositories** at the 9 October 2026 snapshot: 50 archived, four open. It preserves the classifications below and links the observed commits. Follow the [Public Portfolio Quality backlog](https://github.com/users/Zaryob/projects/9) for current verification work; open state is not a maintenance guarantee.
 
 ## Maintained downstream and working copies
 
